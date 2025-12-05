@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/285475/screenshots/3798124/astronaut.gif" width="50%">
+  <br><br>
+  <samp>
+    :wave: Hi there! I am Amrik Singh Khalsa. <br>
+    A creative developer who love to combine beautiful design with clean code.
+  </samp>
+  <br>
+  <br>
+  <br>
+  
+  ### I work on ... 💻
+  
+  #### Languages & Framework
+  JavaScript . ReactJS .Angular, NodeJS . ExpressJS . HTML . CSS . SASS . GIT . ReduxJS 
+  
+  #### Tools & Libraries
+  VSCode,AdobeXD, Figma
+</p>
+
 <!--
 **1PanelBook/1PanelBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
